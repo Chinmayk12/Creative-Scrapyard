@@ -11,12 +11,12 @@ The underlying project helps user to view and buy trending artefacts of all the 
 
 # Technologies Used:
   1) Frontend:
-					a) HTML
+     a) HTML
      b) CSS
      c) Javascript
      d) Bootstrap
 		
-		2) Backend:
+  2) Backend:
      a) PHP
      b) MySQL
      
